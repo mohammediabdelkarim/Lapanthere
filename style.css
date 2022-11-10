@@ -668,7 +668,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757 !important;
+    /*color: black !important;*/
 }
 
 .container {
@@ -739,9 +739,9 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
+/*h1 {
     color: #333333 !important;
-}
+}*/
 
 h4 {
     color: #333333 !important;
@@ -792,7 +792,16 @@ h4 {
 }
 
 .tc-white {
-    color: yellow !important;
+    /*color: yellow !important;*/
+}
+.col-sm-12 .text-center-contact {
+    
+    text-align: center;
+    color: #000000;
+    /*hero-bloc-text tc-white*/
+}
+.col-sm-12 p{
+    color: #000000;
 }
 
 .btn-atomic-tangerine {
