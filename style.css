@@ -792,14 +792,14 @@ h4 {
 }
 
 .tc-white {
-    /*color: yellow !important;*/
+   
     color: white;
 }
 .col-sm-12 .text-center-contact {
     
     text-align: center;
     color: #000000;
-    /*hero-bloc-text tc-white*/
+    
 }
 .col-sm-12 p{
     color: #000000;
